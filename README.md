@@ -1,5 +1,5 @@
 # SSea-Legacy-Yacht
-The Source code for the Legacy Yacht mod for Sunless Sea
+The Source code for the [Legacy Yacht mod for Sunless Sea](https://www.nexusmods.com/sunlesssea/mods/35)
 
 Massive thanks to Desblat on the [Failbetter Discord](https://discord.gg/WUMszad7MZ) for helping me with the code!
 
