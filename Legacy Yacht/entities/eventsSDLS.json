@@ -8,8 +8,6 @@
             }],
             "Description": "Your reward consists of deeds that are hand-written on bark-cloth from the bolegus (those vast and woody mushrooms that grow on fertile islands). \"It preferred the old ways,\" the Steward says obscurely. \"If you visit the Shipyard, you'll find all you need, there.\"",
             "Note": "The event that actually gifts you the deeds when your next captain comes to collect them.",
-            "Autofire": true,
-            "CanGoBack": false,
             "Name": "The Steam-Yacht Deeds",
             "Id": 79000135
         },
@@ -21,23 +19,23 @@
     "QualitiesRequired": [{
         "VisibleWhenRequirementFailed": true,
         "MinLevel": 1,
-        "AssociatedQualityId": 500500,
-        "Id": 79000105
+        "AssociatedQualityId": 500500
+
     }, {
         "VisibleWhenRequirementFailed": true,
         "MaxLevel": 0,
-        "AssociatedQualityId": 111431,
-        "Id": 79000107
+        "AssociatedQualityId": 111431
+
     }, {
         "VisibleWhenRequirementFailed": true,
         "MaxLevel": 0,
-        "AssociatedQualityId": 999107,
-        "Id": 79000108
+        "AssociatedQualityId": 999107
+
     }, {
         "VisibleWhenRequirementFailed": true,
         "MaxLevel": 0,
-        "AssociatedQualityId": 105320,
-        "Id": 79000109
+        "AssociatedQualityId": 105320
+
     }],
     "Image": "ship2",
     "Description": "The Obsequious Steward awaits you on the dock.",
@@ -51,8 +49,6 @@
         "Id": 100374
     },
     "Distribution": 100,
-    "Autofire": true,
-    "CanGoBack": false,
     "Name": "The First Curator's Legacy.",
     "Id": 79000111
 }, {
@@ -66,8 +62,6 @@
             }],
             "Description": "Mod successfully activated!",
             "Note": "Event that activates the mod and gives you a quality that stays with all your captains",
-            "Autofire": true,
-            "CanGoBack": false,
             "Id": 500506
         },
         "Name": "Activate the mod",
@@ -76,12 +70,10 @@
     }],
     "QualitiesRequired": [{
         "MaxLevel": 0,
-        "AssociatedQualityId": 500500,
-        "Id": 79000105
+        "AssociatedQualityId": 500500
     }, {
         "MinLevel": 1,
-        "AssociatedQualityId": 111431,
-        "Id": 79000107
+        "AssociatedQualityId": 111431
     }],
     "Image": "papers",
     "Description": "Thank you for installing Legacy Yacht V2! If you're reading this, then you just obtained the Deeds to a Steam Yacht. This event ensures that all captains across this lineage will be able to claim the deeds from Curator's Steward at Venderbight. Click GO to continue.",
@@ -95,8 +87,6 @@
     },
     "Urgency": "Must",
     "Distribution": 100,
-    "Autofire": true,
-    "CanGoBack": true,
     "Name": "Legacy Yacht V2",
     "Id": 500502
 }, {
@@ -110,8 +100,6 @@
             }],
             "Description": "Mod successfully activated!",
             "Note": "Event that activates the mod and gives you a quality that stays with all your captains",
-            "Autofire": true,
-            "CanGoBack": false,
             "Id": 500506
         },
         "Name": "Activate the mod",
@@ -120,12 +108,12 @@
     }],
     "QualitiesRequired": [{
         "MaxLevel": 0,
-        "AssociatedQualityId": 500500,
-        "Id": 79000105
+        "AssociatedQualityId": 500500
+
     }, {
         "MinLevel": 1,
-        "AssociatedQualityId": 999107,
-        "Id": 79000108
+        "AssociatedQualityId": 999107
+
     }],
     "Image": "papers",
     "Description": "Thank you for installing Legacy Yacht V2! If you're reading this, then you just obtained the Deeds to a Steam Yacht. This event ensures that all captains across this lineage will be able to claim the deeds from Curator's Steward at Venderbight. Click GO to continue.",
@@ -139,8 +127,6 @@
     },
     "Urgency": "Must",
     "Distribution": 100,
-    "Autofire": true,
-    "CanGoBack": true,
     "Name": "Legacy Yacht V2",
     "Id": 500509
 }]
