@@ -7,8 +7,7 @@
             }],
             "Description": "Your reward consists of deeds that are hand-written on bark-cloth from the bolegus (those vast and woody mushrooms that grow on fertile islands). \"It preferred the old ways,\" the Steward says obscurely. \"If you visit the Shipyard, you'll find all you need, there.\"",
             "Note": "The event that actually gifts you the deeds when your next captain comes to collect them.",
-            "Name": "The Steam-Yacht Deeds",
-            "Id": 79000135
+            "Name": "The Steam-Yacht Deeds"
         },
         "Name": "Approach the Steward",
         "Description": "\"The First Curator owes your aqaintance a great debt. Allow us to repay you. The curator was too frail to sail, by the time she was completed. It would have wanted you to have her. A capable captain like yourself might have a use for this.\" [This will give you a deeds for a Steam-Yacht.]"
@@ -55,8 +54,7 @@
                 "AssociatedQualityId": 500500
             }],
             "Description": "Mod successfully activated!",
-            "Note": "Event that activates the mod and gives you a quality that stays with all your captains",
-            "Id": 500506
+            "Note": "Event that activates the mod and gives you a quality that stays with all your captains"
         },
         "Name": "Activate the mod",
         "Description": "This will activate the mod, and allow your next captains to recieve their reward. "
@@ -91,8 +89,7 @@
                 "AssociatedQualityId": 500500
             }],
             "Description": "Mod successfully activated!",
-            "Note": "Event that activates the mod and gives you a quality that stays with all your captains",
-            "Id": 500506
+            "Note": "Event that activates the mod and gives you a quality that stays with all your captains"
         },
         "Name": "Activate the mod",
         "Description": "This will activate the mod, and allow your next captains to recieve their reward. "
