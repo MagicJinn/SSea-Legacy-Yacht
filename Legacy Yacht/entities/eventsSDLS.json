@@ -16,34 +16,25 @@
         "VisibleWhenRequirementFailed": true,
         "MinLevel": 1,
         "AssociatedQualityId": 500500
-
     }, {
         "VisibleWhenRequirementFailed": true,
         "MaxLevel": 0,
         "AssociatedQualityId": 111431
-
     }, {
         "VisibleWhenRequirementFailed": true,
         "MaxLevel": 0,
         "AssociatedQualityId": 999107
-
     }, {
         "VisibleWhenRequirementFailed": true,
         "MaxLevel": 0,
         "AssociatedQualityId": 105320
-
     }],
     "Image": "ship2",
     "Description": "The Obsequious Steward awaits you on the dock.",
     "Note": "Event that checks whether you deserve to recieve the deeds",
-    "Deck": {
-        "Availability": "Always",
-        "Id": 8557
-    },
     "LimitedToArea": {
         "Id": 100374
     },
-    "Distribution": 100,
     "Name": "The First Curator's Legacy.",
     "Id": 79000111
 }, {
@@ -58,7 +49,6 @@
         },
         "Name": "Activate the mod",
         "Description": "This will activate the mod, and allow your next captains to recieve their reward. "
-
     }],
     "QualitiesRequired": [{
         "MaxLevel": 0,
@@ -68,17 +58,12 @@
         "AssociatedQualityId": 111431
     }],
     "Image": "papers",
-    "Description": "Thank you for installing Legacy Yacht V2! If you're reading this, then you just obtained the Deeds to a Steam Yacht. This event ensures that all captains across this lineage will be able to claim the deeds from Curator's Steward at Venderbight. Click GO to continue.",
+    "Description": "Thank you for installing Legacy Yacht V2! If you're reading this, then you just obtained the Deeds to a Steam Yacht. This event ensures that all captains across this lineage will be able to claim the deeds from Curator's Steward at Venderbight. Sorry for the immersion break.",
     "Note": "Event that checks whether you should get the yacht on your next captains",
-    "Deck": {
-        "Availability": "Always",
-        "Id": 8557
-    },
     "LimitedToArea": {
         "Id": 100374
     },
     "Urgency": "Must",
-    "Distribution": 100,
     "Name": "Legacy Yacht V2",
     "Id": 500502
 }, {
@@ -93,29 +78,21 @@
         },
         "Name": "Activate the mod",
         "Description": "This will activate the mod, and allow your next captains to recieve their reward. "
-
     }],
     "QualitiesRequired": [{
         "MaxLevel": 0,
         "AssociatedQualityId": 500500
-
     }, {
         "MinLevel": 1,
         "AssociatedQualityId": 999107
-
     }],
     "Image": "papers",
-    "Description": "Thank you for installing Legacy Yacht V2! If you're reading this, then you just obtained the Deeds to a Steam Yacht. This event ensures that all captains across this lineage will be able to claim the deeds from Curator's Steward at Venderbight. Click GO to continue.",
+    "Description": "Thank you for installing Legacy Yacht V2! If you're reading this, then you just obtained the Deeds to a Steam Yacht. This event ensures that all captains across this lineage will be able to claim the deeds from Curator's Steward at Venderbight. Sorry for the immersion break.",
     "Note": "Event that checks whether you should get the yacht on your next captains",
-    "Deck": {
-        "Availability": "Always",
-        "Id": 8557
-    },
     "LimitedToArea": {
         "Id": 100374
     },
     "Urgency": "Must",
-    "Distribution": 100,
     "Name": "Legacy Yacht V2",
     "Id": 500509
 }]
