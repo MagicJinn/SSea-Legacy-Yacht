@@ -3,8 +3,7 @@
         "DefaultEvent": {
             "QualitiesAffected": [{
                 "Level": 1,
-                "AssociatedQualityId": 111431,
-                "Id": 79000144
+                "AssociatedQualityId": 111431
             }],
             "Description": "Your reward consists of deeds that are hand-written on bark-cloth from the bolegus (those vast and woody mushrooms that grow on fertile islands). \"It preferred the old ways,\" the Steward says obscurely. \"If you visit the Shipyard, you'll find all you need, there.\"",
             "Note": "The event that actually gifts you the deeds when your next captain comes to collect them.",
@@ -13,8 +12,7 @@
         },
         "Name": "Approach the Steward",
         "Description": "\"The First Curator owes your aqaintance a great debt. Allow us to repay you. The curator was too frail to sail, by the time she was completed. It would have wanted you to have her. A capable captain like yourself might have a use for this.\" [This will give you a deeds for a Steam-Yacht.]",
-        "Ordering": 9,
-        "Id": 79000120
+        "Ordering": 9
     }],
     "QualitiesRequired": [{
         "VisibleWhenRequirementFailed": true,
@@ -56,17 +54,15 @@
         "DefaultEvent": {
             "QualitiesAffected": [{
                 "SetToExactly": 1,
-                "Level": 0,
-                "AssociatedQualityId": 500500,
-                "Id": 500501
+                "AssociatedQualityId": 500500
             }],
             "Description": "Mod successfully activated!",
             "Note": "Event that activates the mod and gives you a quality that stays with all your captains",
             "Id": 500506
         },
         "Name": "Activate the mod",
-        "Description": "This will activate the mod, and allow your next captains to recieve their reward. ",
-        "Id": 500510
+        "Description": "This will activate the mod, and allow your next captains to recieve their reward. "
+
     }],
     "QualitiesRequired": [{
         "MaxLevel": 0,
@@ -94,17 +90,15 @@
         "DefaultEvent": {
             "QualitiesAffected": [{
                 "SetToExactly": 1,
-                "Level": 0,
-                "AssociatedQualityId": 500500,
-                "Id": 500501
+                "AssociatedQualityId": 500500
             }],
             "Description": "Mod successfully activated!",
             "Note": "Event that activates the mod and gives you a quality that stays with all your captains",
             "Id": 500506
         },
         "Name": "Activate the mod",
-        "Description": "This will activate the mod, and allow your next captains to recieve their reward. ",
-        "Id": 500510
+        "Description": "This will activate the mod, and allow your next captains to recieve their reward. "
+
     }],
     "QualitiesRequired": [{
         "MaxLevel": 0,
