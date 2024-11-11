@@ -11,8 +11,7 @@
             "Id": 79000135
         },
         "Name": "Approach the Steward",
-        "Description": "\"The First Curator owes your aqaintance a great debt. Allow us to repay you. The curator was too frail to sail, by the time she was completed. It would have wanted you to have her. A capable captain like yourself might have a use for this.\" [This will give you a deeds for a Steam-Yacht.]",
-        "Ordering": 9
+        "Description": "\"The First Curator owes your aqaintance a great debt. Allow us to repay you. The curator was too frail to sail, by the time she was completed. It would have wanted you to have her. A capable captain like yourself might have a use for this.\" [This will give you a deeds for a Steam-Yacht.]"
     }],
     "QualitiesRequired": [{
         "VisibleWhenRequirementFailed": true,
@@ -38,7 +37,6 @@
     "Image": "ship2",
     "Description": "The Obsequious Steward awaits you on the dock.",
     "Note": "Event that checks whether you deserve to recieve the deeds",
-    "Ordering": 2,
     "Deck": {
         "Availability": "Always",
         "Id": 8557
